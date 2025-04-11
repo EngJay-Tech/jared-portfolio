@@ -1,4 +1,4 @@
-# Jared Otieno Dhiambo Portfolio
+# Jared Otieno Odhiambo Portfolio
 
 This is the personal portfolio website of Jared Otieno Dhiambo, a Software Engineer and IT enthusiast. It showcases my skills, experience, and services in software engineering, IT support, and hospital billing.
 
