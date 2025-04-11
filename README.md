@@ -15,11 +15,11 @@ This is the personal portfolio website of Jared Otieno Dhiambo, a Software Engin
 - GitHub Pages
 
 ## How to View the Website
-Visit my portfolio online at [https://<EngJay-Tech>.github.io/<repository-name>](https://EngJay-Tech>.github.io/<repository-EngJay-Tech>).
+Visit my portfolio online at [https://<engjay-tech>.github.io/<repository-name>](https://EngJay-Tech>.github.io/<repository-engjay-tech>).
 
 ## Contact
 - Email: eng.jaredotieno@gmail.com
-- LinkedIn: [[linkedin.com/in/yourname](https://linkedin.com/in/yourname](https://www.linkedin.com/in/jared-odhiambo-42996728b/))
+- LinkedIn: [[linkedin.com/in/yourname](https://linkedin.com/in/jared-odhiambo-42996728b/](https://www.linkedin.com/in/jared-odhiambo-42996728b/)
 - WhatsApp: [Chat with me](https://wa.me/0116472800)
 
 ## License
