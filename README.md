@@ -15,7 +15,7 @@ This is the personal portfolio website of Jared Otieno Dhiambo, a Software Engin
 - GitHub Pages
 
 ## How to View the Website
-Visit my portfolio online at [https://<engjay-tech>.github.io/<repository-name>](https://EngJay-Tech>.github.io/<repository-engjay-tech>).
+Visit my portfolio online at [https://<engjay-tech>.github.io/<jared-portfolio>](https://<engjay-tech>.github.io/<jared-portfolio>).
 
 ## Contact
 - Email: eng.jaredotieno@gmail.com
