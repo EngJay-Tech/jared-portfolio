@@ -114,7 +114,7 @@ export interface Testimonial {
 
 export const TESTIMONIALS: Testimonial[] = [
   {
-    name: "Sarah Chen",
+    name: "Peter Kimani",
     company: "TechVenture Inc",
     role: "CEO",
     testimonial:
@@ -123,7 +123,7 @@ export const TESTIMONIALS: Testimonial[] = [
     glowColor: "cyan",
   },
   {
-    name: "Marcus Johnson",
+    name: "Trevor Seseri",
     company: "DataFlow Solutions",
     role: "CTO",
     testimonial:
@@ -132,7 +132,7 @@ export const TESTIMONIALS: Testimonial[] = [
     glowColor: "emerald",
   },
   {
-    name: "Elena Rodriguez",
+    name: "Willington Ouko",
     company: "StartupHub",
     role: "Founder",
     testimonial:
@@ -141,7 +141,7 @@ export const TESTIMONIALS: Testimonial[] = [
     glowColor: "purple",
   },
   {
-    name: "David Park",
+    name: "Hendritah Mnyango",
     company: "FinTech Innovations",
     role: "Product Manager",
     testimonial:
@@ -150,7 +150,7 @@ export const TESTIMONIALS: Testimonial[] = [
     glowColor: "cyan",
   },
   {
-    name: "Jessica Williams",
+    name: "Pauline Elisha",
     company: "E-Commerce Plus",
     role: "Operations Lead",
     testimonial:
@@ -159,7 +159,7 @@ export const TESTIMONIALS: Testimonial[] = [
     glowColor: "emerald",
   },
   {
-    name: "Alex Thompson",
+    name: "Alfred Ouko",
     company: "Digital Agency Pro",
     role: "Director",
     testimonial:
